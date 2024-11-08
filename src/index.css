@@ -1,7 +1,7 @@
-.student {
-  border: 2px solid rgba(0, 0, 0, 0.3);
-  max-width: 250px;
-  padding-left: 10px;
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-  margin-bottom: 20px;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(135deg, #ff7a8c 0%, #ffb6b9 50%, #ffdac1 100%);
 }
