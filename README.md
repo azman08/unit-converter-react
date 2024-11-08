@@ -19,6 +19,9 @@ This is a simple Unit Converter app built using React JS Vite and Tailwind CSS .
 Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (which includes npm)
+- React Js Vite
+- Tailwind CSS
+- React Icons
 
 ### Installation
 
