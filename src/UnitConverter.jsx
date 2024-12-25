@@ -51,7 +51,7 @@ const UnitConverter = () => {
 
       <div className="grid grid-cols-2 gap-4 mb-4">
         <div>
-          <label className="block mb-2 text-black hover:text-gray-600">
+          <label className="block mb-4 text-black hover:text-gray-600">
             From:
           </label>
           <select
